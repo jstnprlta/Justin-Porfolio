@@ -5,6 +5,7 @@
   <li> Added a photo and a breif discription about myself</li>
   <li> Added pictures of my most recent work</li>
   <li> I organized my code to where its understandable added commets in my code </li>
+  <li> Added recent group project <strong>The Last Word on 07/17/22</strong></li>
 
  
 <img width="1440" alt="Screen Shot 2022-04-17 at 3 34 31 AM" src="https://user-images.githubusercontent.com/100394905/163707113-bc2c8b95-bc30-4821-bbd5-4c8b78d53b6f.png">
